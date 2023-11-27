@@ -4,7 +4,6 @@ any string input and converts it to Morse Code
 """
 
 # PasswordManager and FlashCardProject project are examples of text input with TKinter
-# TODO Add to Git
 # TODO Add to GitHub
 
 from tkinter import *
